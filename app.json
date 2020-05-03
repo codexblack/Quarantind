@@ -1,0 +1,22 @@
+{
+  "name": "SecureFood",
+  "displayName": "SecureFood",
+  "expo": {
+    "name": "SecureFood",
+    "slug": "SecureFood",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+	"android": {
+      "package": "com.shreyan.quarantind",
+      "versionCode": 1
+    }
+  }
+ 
+}
